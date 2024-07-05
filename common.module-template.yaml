@@ -5,4 +5,7 @@ settings:
     compileSdk: 34
   jvm:
     release: 11
-  compose: enabled
+  compose:
+    enabled: true
+    version: "1.7.0-alpha01"
+
